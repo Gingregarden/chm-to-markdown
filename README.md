@@ -1,2 +1,2 @@
-# chm_to_markdown
+# chm-to-markdown
 .chmファイルを、NotebookLMに入力できるようにmarkdownに変換する。
